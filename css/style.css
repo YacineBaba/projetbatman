@@ -4,7 +4,7 @@
    @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;0,300;1,200&family=Roboto:wght@100;300&display=swap');
 html{
     font-size: 62.5%; /*16 multipliter 62.5% = 10 rem */
-    background:linear-gradient(to top, rgba(0,0,0,.7) 50%,rgba(0,0,0,.7) 5%), url(../asset/batman.jpg)no-repeat fixed center center / cover;
+    background:linear-gradient(to top, rgba(0,0,0,.7) 50%,rgba(0,0,0,.7) 70%), url(../asset/batman.jpg)no-repeat fixed center center / cover;
 
 }
 body{
